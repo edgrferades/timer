@@ -5,4 +5,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+}
+
+form{
+    text-align: center;
+}
+
+#input{
+    margin-bottom: 17px;
 }
